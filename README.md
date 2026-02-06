@@ -1,5 +1,6 @@
 # ShulkerV2Beta python src
 windows only
+do not complain if some features doesn't work 
 ## Installing:
 install [python 3.13 ](https://www.python.org/downloads/release/python-3130/) 
 ```
